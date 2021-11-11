@@ -1,4 +1,4 @@
-##Hi, I'm Ywoogi
+## Hi, I'm Ywoogi 👋
 
 <!---
 ywoogi/ywoogi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
